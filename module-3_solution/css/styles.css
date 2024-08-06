@@ -1,0 +1,32 @@
+
+body {
+    color:rgb(133, 126, 126)
+}
+header {
+    background-color:antiquewhite;
+}
+
+h1 {
+    margin:30px;
+    color:chocolate;
+}
+
+h2 {
+    color:chocolate;
+    font-weight:700;
+}
+
+.textBlock{
+    background-color: #fcf8f3;
+    padding: 10px;
+    
+}
+
+.navbar-brand {
+    color:chocolate;
+    font-weight:800;
+}
+
+.col-xs-12{
+    padding:20px;
+}
